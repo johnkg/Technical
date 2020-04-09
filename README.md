@@ -1,6 +1,8 @@
 # Technical
 
-To run the code, download the (html, css, javascript) files and put it in the same folder. Negative values are not allowed to be entered. 
+To run the code, download the (html, css, javascript) files and put it in the same folder. No need to download anything.
+
+Negative values are not allowed to be entered.
 
 * Assumptions are made for the computation of the cost forecast. These are:
  a. 1000 MB = 1 GB
